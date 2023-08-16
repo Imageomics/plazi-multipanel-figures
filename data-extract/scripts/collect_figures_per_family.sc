@@ -6,7 +6,7 @@ import scala.io.Source
 // First take only one row containing a given image URL
 // (some figure images seem to duplicated across treatment entries)
 // then group by family and retain up to 3 figures
-val allLines = Source.fromFile(new File(args(0)), "UTF-8")
+Source.fromFile(new File(args(0)), "UTF-8")
     .getLines()
     .drop(1)
     .map(_.split("\t", -1))
