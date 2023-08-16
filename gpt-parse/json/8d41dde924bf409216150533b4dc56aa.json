@@ -1,0 +1,60 @@
+{
+    "subpanels": [
+        {
+            "description": "Lateral view of a right valve, BE21 (GeoZS6132). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "A"
+        },
+        {
+            "description": "Lateral view of a left valve, BE18 (GeoZS6133). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "B"
+        },
+        {
+            "description": "Lateral view of a broken left valve, BE18 (GeoZS6134). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "C"
+        },
+        {
+            "description": "Lateral view of a left valve, BE18 (GeoZS6135). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "D"
+        },
+        {
+            "description": "Lateral view of a left valve, BE17 (GeoZS6136). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "E"
+        },
+        {
+            "description": "Lateral view of a right valve, BE18 (GeoZS6137). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "F"
+        },
+        {
+            "description": "Lateral view of a right valve, BE18 (GeoZS6138). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "G"
+        },
+        {
+            "description": "Right lateral view of a complete carapace, BE23/1 (GeoZS6139). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "H"
+        },
+        {
+            "description": "Lateral view of a left valve, BE17 (GeoZS6140). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "I"
+        },
+        {
+            "description": "Right lateral view of a complete carapace, BE18 (GeoZS6141). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "J"
+        },
+        {
+            "description": "Lateral view of a right valve, BE23/1 (GeoZS6142). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "K"
+        },
+        {
+            "description": "Lateral view of a left valve, BE18 (GeoZS6143). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "L"
+        },
+        {
+            "description": "Lateral view of a left valve, BE18 (GeoZS6144). Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "M"
+        },
+        {
+            "description": "Lateral view of a Bairdiacypris sp. 1. Ostracod specimen deposited in the micropalaeontology collections of the Geological Survey of Slovenia.",
+            "id": "N"
+        }
+    ]
+}

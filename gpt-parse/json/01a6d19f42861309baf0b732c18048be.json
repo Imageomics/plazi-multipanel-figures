@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Stereocephalus tutus, Lambe, view of left side of specimen \ufb01gured on plate XI one half the natural size",
+            "id": "Fig. 1"
+        },
+        {
+            "description": "Palatal view of the same one-half the natural size",
+            "id": "Fig. 2"
+        },
+        {
+            "description": "Stereocephalus tutus, co\u00f6ssi\ufb01ed postcranial scutes, superior view two sevenths the natural size",
+            "id": "Fig. 3"
+        },
+        {
+            "description": "The same, anterior view",
+            "id": "Fig. 4"
+        },
+        {
+            "description": "Transverse section of rib (provisionally associated with S. tutus; one-half the natural size.)",
+            "id": "Fig. 5"
+        }
+    ]
+}

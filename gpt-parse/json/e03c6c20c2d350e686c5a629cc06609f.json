@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Adult female of Rhizococcus avicennae sp. nov., left side dorsal view.",
+            "id": "a"
+        },
+        {
+            "description": "Adult female of Rhizococcus avicennae sp. nov., right side ventral view.",
+            "id": "b"
+        }
+    ]
+}

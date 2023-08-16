@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Panel A depicts the stylet of Nygulgus evelinae.",
+            "id": "A"
+        },
+        {
+            "description": "Panel B shows a general view of Nygulgus evelinae.",
+            "id": "B"
+        },
+        {
+            "description": "Panel C displays a sagittal reconstruction of Nygulgus evelinae.",
+            "id": "C"
+        }
+    ]
+}

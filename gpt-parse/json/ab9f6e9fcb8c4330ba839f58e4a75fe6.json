@@ -1,0 +1,36 @@
+{
+    "subpanels": [
+        {
+            "description": "Immature tubarium of Gothograptus auriculatus n. sp., obverse view, showing the first three thecae. The tubarium is from the Bartoszyce IG-1 core, depth 1645.2 m, praedeubeli Biozone.",
+            "id": "A"
+        },
+        {
+            "description": "Mature tubarium of Gothograptus auriculatus n. sp., obverse view, with wide lists above the proximal lateral orifice (dark blue). The tubarium is from the Bartoszyce IG-1 core, depth 1645.2 m, praedeubeli Biozone.",
+            "id": "B"
+        },
+        {
+            "description": "Inside view of the proximal end of Gothograptus nassa (Holm, 1890), showing the sicula rim. The specimen is from Mulde Marl, Bl\u00e5h\u00e4ll, Gotland, Sweden Locality 813-832, Bl\u00e5h\u00e4ll 1.",
+            "id": "C"
+        },
+        {
+            "description": "Outside view of the ancora of Gothograptus nassa (Holm, 1890), shown as a stereopair.",
+            "id": "D"
+        },
+        {
+            "description": "Outside view of the ancora of Gothograptus nassa (Holm, 1890), shown as a stereopair.",
+            "id": "E"
+        },
+        {
+            "description": "Stereopair of the ventral view of the proximal end of Gothograptus nassa (Holm, 1890).",
+            "id": "G"
+        },
+        {
+            "description": "Lateral view of Gothograptus nassa (Holm, 1890), showing the colored reticulated wall of the metasicula.",
+            "id": "H"
+        },
+        {
+            "description": "Outside view of the proximal end of Gothograptus kozlowskii Koz\u0142owska-Dawidziuk, 1990, with outer ancora. The specimen is from an erratic boulder, Jaros\u0142awiec 147, Poland, lundgreni Biozone.",
+            "id": "F"
+        }
+    ]
+}

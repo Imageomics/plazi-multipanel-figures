@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal view of holotype of Gymnura lessae, sp. nov. (USNM 51940, adult male, 420 mm DW).",
+            "id": "A"
+        },
+        {
+            "description": "Ventral view of holotype of Gymnura lessae, sp. nov. (USNM 51940, adult male, 420 mm DW).",
+            "id": "B"
+        }
+    ]
+}

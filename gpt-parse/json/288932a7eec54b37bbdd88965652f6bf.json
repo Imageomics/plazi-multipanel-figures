@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Spectrogram and oscillogram of the advertisement call of Eleutherodactylus franzi sp. nov. recorded at El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico.",
+            "id": "A"
+        },
+        {
+            "description": "Spectrogram and oscillogram of the advertisement call of Eleutherodactylus franzi sp. nov. recorded at El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico.",
+            "id": "B"
+        },
+        {
+            "description": "Spectrogram and oscillogram of the advertisement call of Eleutherodactylus franzi sp. nov. recorded at 3 km E of Ixcateopan de Cuauhtemoc, Guerrero, Mexico.",
+            "id": "C"
+        },
+        {
+            "description": "Spectrogram and oscillogram of the advertisement call of Eleutherodactylus franzi sp. nov. recorded at 3 km E of Ixcateopan de Cuauhtemoc, Guerrero, Mexico.",
+            "id": "D"
+        }
+    ]
+}

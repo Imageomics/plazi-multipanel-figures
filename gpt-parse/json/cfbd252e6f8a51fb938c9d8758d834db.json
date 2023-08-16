@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Left forewing of Protoaristenymphes daohugouensis sp. nov.",
+            "id": "A"
+        },
+        {
+            "description": "Right forewing of Protoaristenymphes daohugouensis sp. nov.",
+            "id": "B"
+        },
+        {
+            "description": "Right hind wing of Protoaristenymphes daohugouensis sp. nov.",
+            "id": "C"
+        },
+        {
+            "description": "Left hind wing of Protoaristenymphes daohugouensis sp. nov.",
+            "id": "D"
+        }
+    ]
+}

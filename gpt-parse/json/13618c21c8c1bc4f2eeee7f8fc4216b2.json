@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Ventral view of Niesthrea cassini G\u00f6llner-Scheiding male genitalia",
+            "id": "A"
+        },
+        {
+            "description": "Lateral view of Niesthrea cassini G\u00f6llner-Scheiding male genitalia",
+            "id": "B"
+        }
+    ]
+}
