@@ -1,0 +1,32 @@
+{
+    "subpanels": [
+        {
+            "description": "Sphecapatodes superciliosa sp. nov., paratype. Terminalia.",
+            "id": "A"
+        },
+        {
+            "description": "Sphecapatodes xinjiangensis sp. nov., paratype. Terminalia.",
+            "id": "B"
+        },
+        {
+            "description": "Sphecapatodes kaszabi Rohdendorf & Verves, 1980. Terminalia.",
+            "id": "C"
+        },
+        {
+            "description": "Sphecapatodes xuei Zhang, Chu, Pape & Zhang, 2014, holotype. Terminalia.",
+            "id": "D"
+        },
+        {
+            "description": "Sphecapatodes superciliosa sp. nov., sternite 5, paratype.",
+            "id": "E"
+        },
+        {
+            "description": "Sphecapatodes xinjiangensis sp. nov., sternite 5, paratype.",
+            "id": "F"
+        },
+        {
+            "description": "Sphecapatodes kaszabi Rohdendorf & Verves, 1980, sternite 5.",
+            "id": "G"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Syntype of Archimediella dertornatior Sacco, 1895 from Stazzano (Italy), BS.061.03.003",
+            "id": "A"
+        },
+        {
+            "description": "Syntype of Archimediella dertornatior Sacco, 1895 from Stazzano (Italy), BS.061.03.003bis",
+            "id": "B1-B2"
+        },
+        {
+            "description": "Archimediella dertonensis (Mayer, 1868) from Stazzano (Italy), BS.061.03.004",
+            "id": "C"
+        }
+    ]
+}

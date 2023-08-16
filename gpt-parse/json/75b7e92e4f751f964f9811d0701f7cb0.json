@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal view of the holotype male of Pseudohydryphantes chilensisn. sp.",
+            "id": "A"
+        },
+        {
+            "description": "Ventral view of the holotype male of Pseudohydryphantes chilensisn. sp.",
+            "id": "B"
+        },
+        {
+            "description": "Close-up view of the chelicera of the holotype male of Pseudohydryphantes chilensisn. sp.",
+            "id": "C"
+        },
+        {
+            "description": "Close-up view of the palp of the holotype male of Pseudohydryphantes chilensisn. sp.",
+            "id": "D"
+        },
+        {
+            "description": "Views of the fourth to sixth legs of the holotype male of Pseudohydryphantes chilensisn. sp.",
+            "id": "E"
+        }
+    ]
+}

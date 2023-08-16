@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "One of the original syntypes of Aplocheilus andamanicus collected by Day (1878) from the Andamans, now lectotype, BMNH 1870.5.18.34-36, 74.8 mm SL, Port Blair",
+            "id": "A"
+        },
+        {
+            "description": "Topotypes of A. andamanicus, male, BNHS FWF 563, 65.2 mm SL, collected from south Andaman Island",
+            "id": "B"
+        },
+        {
+            "description": "Topotypes of A. panchax, male, BNHS FWF 569, 28.3 mm SL, collected from West Bengal, India",
+            "id": "C"
+        }
+    ]
+}

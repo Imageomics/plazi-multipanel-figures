@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Deutonymph: Dorsal idiosoma of Amazoniaseius imparisetosus n. sp.",
+            "id": "6"
+        },
+        {
+            "description": "Deutonymph: Ventral idiosoma of Amazoniaseius imparisetosus n. sp.",
+            "id": "7"
+        },
+        {
+            "description": "Protonymph: Dorsal idiosoma of Amazoniaseius imparisetosus n. sp.",
+            "id": "8"
+        },
+        {
+            "description": "Protonymph: Ventral idiosoma of Amazoniaseius imparisetosus n. sp.",
+            "id": "9"
+        }
+    ]
+}

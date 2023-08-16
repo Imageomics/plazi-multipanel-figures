@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "Capitulum of Eupanisellus kazakhstanicus n. sp., adult",
+            "id": "9"
+        },
+        {
+            "description": "Chelicera of Eupanisellus kazakhstanicus n. sp., adult",
+            "id": "10"
+        },
+        {
+            "description": "Pedipalp of Eupanisellus kazakhstanicus n. sp., adult",
+            "id": "11"
+        },
+        {
+            "description": "Genital field of Eupanisellus kazakhstanicus n. sp., adult",
+            "id": "12"
+        },
+        {
+            "description": "Right half of genital field of Eupanisellus kazakhstanicus n. sp., adult",
+            "id": "13"
+        },
+        {
+            "description": "Genital field of Eupanisellus kazakhstanicus n. sp., female",
+            "id": "14"
+        }
+    ]
+}

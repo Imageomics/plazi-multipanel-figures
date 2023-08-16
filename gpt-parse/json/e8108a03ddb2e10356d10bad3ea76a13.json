@@ -1,0 +1,32 @@
+{
+    "subpanels": [
+        {
+            "description": "Gnathopod 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "A"
+        },
+        {
+            "description": "Gnathopod 2 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "B"
+        },
+        {
+            "description": "Propodus of gnathopod 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "C"
+        },
+        {
+            "description": "Propodus of gnathopod 2 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "D"
+        },
+        {
+            "description": "Dactylus of gnathopod 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "E"
+        },
+        {
+            "description": "Dactylus of gnathopod 2 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "F"
+        },
+        {
+            "description": "Coxal gills of gnathopod 2 and pereopods 3\u20137 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "G-L"
+        }
+    ]
+}

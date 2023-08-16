@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Complete digestive system of Salinator tecta sp. nov.",
+            "id": "A"
+        },
+        {
+            "description": "Detail of stomach and gizzard of Salinator tecta sp. nov., with the stomach dissected dorsally to show internal structure.",
+            "id": "B"
+        }
+    ]
+}
