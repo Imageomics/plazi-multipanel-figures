@@ -11,7 +11,7 @@ To produce a dataset of individual images with associated description suitable f
 
 ## Context
 
-Part of the [Image Datapalooza](https://github.com/Imageomics/Image-Datapalooza-2023) event held at Ohio State University, Columbus, 14-17th August 2023.
+Part of the [Image Datapalooza](https://github.com/Imageomics/Image-Datapalooza-2023) event held at Ohio State University, Columbus, 14-17th August 2023. Original project pitch is [documented as an issue](https://github.com/Imageomics/Image-Datapalooza-2023/issues/4)
 
 ## Data
 
