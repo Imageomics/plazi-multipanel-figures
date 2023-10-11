@@ -17,6 +17,7 @@ Part of the [Image Datapalooza](https://github.com/Imageomics/Image-Datapalooza-
 
 - [Data in zenodo filtered by type = image](https://zenodo.org/communities/biosyslit/search?type=image)
 - [Turtle RDF format data from github](https://github.com/plazi/treatments-rdf)
+- [Extracted dataset on Huggingface](https://huggingface.co/datasets/imageomics/plazi-biospecimen-img-descriptions)
 
 ## Tasks
 
