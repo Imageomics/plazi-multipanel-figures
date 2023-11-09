@@ -1,0 +1,36 @@
+{
+    "subpanels": [
+        {
+            "description": "Light Microscopy on mouth parts - Maxilla",
+            "id": "A"
+        },
+        {
+            "description": "Light Microscopy on mouth parts - Maxillule",
+            "id": "B"
+        },
+        {
+            "description": "Light Microscopy on mouth parts - Mandible",
+            "id": "C"
+        },
+        {
+            "description": "Light Microscopy on mouth parts - Close up on the inferior angle of mandible",
+            "id": "D"
+        },
+        {
+            "description": "Light Microscopy on mouth parts - Close up on the teeth of mandible",
+            "id": "E"
+        },
+        {
+            "description": "Light Microscopy on mouth parts - Mandibulatory palp",
+            "id": "F"
+        },
+        {
+            "description": "Light Microscopy on mouth parts - Labrum",
+            "id": "G"
+        },
+        {
+            "description": "Light Microscopy on mouth parts - Close up view on the cutting edge of labrum, showing the teeth",
+            "id": "H"
+        }
+    ]
+}

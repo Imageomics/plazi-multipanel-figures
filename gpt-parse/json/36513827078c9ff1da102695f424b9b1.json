@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Habitus of paratype EMTG BU- 001056 of Burmopsylla maculata gen. et sp. nov., female.",
+            "id": "A"
+        },
+        {
+            "description": "Habitus of paratype EMTG BU- 001056 of Burmopsylla maculata gen. et sp. nov., female.",
+            "id": "B"
+        },
+        {
+            "description": "Habitus of paratype EMTG BU- 001087 of Burmopsylla maculata gen. et sp. nov., female.",
+            "id": "C"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Upper molar. Names of flexi on upper molar: Anlph (anteroloph), Anst (anterostyle), Ectcing (ectocingulum), Endlph (endoloph), Hy (hypocone), Hyplph (hypolophule), Me (metacone), Mecl (metaconule), Melph I (lingual metalophule I), Melph II (lingual metalophule II), Mest (mesostyle), Meslph (mesoloph), Metst (metastyle), Pa (paracone), Pacl (paraconule), Parst (parastyle), Postmecr (postmetacrista), Postpacst (postparacrista), Postst (posterostyle), Postlph (posteroloph), Posthycr (posthypocrista), Prc (protocone), Prcr (protocrista), Prehycr (prehypocrista), Premecr (premetacrista), Prepacl (preparaconule), Preprcr (preprotocrista), Prlph (protoloph).",
+            "id": "a"
+        },
+        {
+            "description": "Lower molar. Names of flexi and some ridges and conules on lower molar: Ancd (anteroconid), Anlphd (anterolophid), Anlphld (anterolophulid), Antsnd (antesinusid), Ectmeslphd (ectomesolophid), Ectlphd (ectolophid), Ectsd (ectostylid), Entcd (entoconid), Encld (entoconulid), Enlphd (entolophid - lingual entolophulid + buccal entolophulid), Hyd (hypoconid), Hycld (hypoconulid), Mbcing (mesiobuccal cingulid), Med (metaconid), Mescd (mesoconid), Meslphd (mesolophid - lingual mesolophulid + buccal mesolophulid), Mestd (mesostylid), Prcd (protoconid), Prcdsp (protoconid spur), Prehycrd (prehypocristid), Premecrd (premetacristid), Posthycrd (posthypocristid), Postlphd (posterolophid), Postmcrd (postmetacristid), Postprcd (postprotocristid), Sind (sinusid).",
+            "id": "b"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "subpanels": [
+        {
+            "description": "Habitus of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864) shown in RMNH Por. 6308. The scale bar is 1 cm.",
+            "id": "a"
+        },
+        {
+            "description": "Scanning electron microscope (SEM) image of the spicule style of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864).",
+            "id": "b"
+        },
+        {
+            "description": "Detailed SEM image of the spicule style of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864).",
+            "id": "b1"
+        },
+        {
+            "description": "SEM image of the microspined tylote spicule of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864).",
+            "id": "c"
+        },
+        {
+            "description": "Detailed SEM image of the microspined tylote spicule of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864).",
+            "id": "c1"
+        },
+        {
+            "description": "SEM image of the long onychaete spicule of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864).",
+            "id": "d"
+        },
+        {
+            "description": "Detailed SEM image of the long onychaete spicule of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864).",
+            "id": "d1"
+        },
+        {
+            "description": "SEM image of the short onychaete spicule of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864).",
+            "id": "e"
+        },
+        {
+            "description": "Enlarged SEM image of the short onychaete spicule of Tedania (Tedania) ignis (Duchassaing & Michelotti, 1864).",
+            "id": "e1"
+        }
+    ]
+}

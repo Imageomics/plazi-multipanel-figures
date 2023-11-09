@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Diagram of whorl expansion rate (WER) of Deltoceras beluga sp. nov., from the Olenidsletta Member, Floian, Ordovician, Profilstranda section, Ny Friesland, Spitsbergen. Solid lines connect measurements from individual specimens. Data of type specimens of D. planum Hyatt, 1894 from Ulrich et al. (1942).",
+            "id": "a"
+        },
+        {
+            "description": "Diagram of whorl width index (WWI) of Deltoceras beluga sp. nov., from the Olenidsletta Member, Floian, Ordovician, Profilstranda section, Ny Friesland, Spitsbergen. Solid lines connect measurements from individual specimens. Data of type specimens of D. planum Hyatt, 1894 from Ulrich et al. (1942).",
+            "id": "b"
+        }
+    ]
+}

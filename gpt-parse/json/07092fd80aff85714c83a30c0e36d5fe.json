@@ -1,0 +1,76 @@
+{
+    "subpanels": [
+        {
+            "description": "Inferomarginal spine of the holotype of Caymanostella spinimarginata",
+            "id": "A"
+        },
+        {
+            "description": "Inferomarginal spine of paratype \u21163 of Caymanostella spinimarginata",
+            "id": "B"
+        },
+        {
+            "description": "Inferomarginal spine of paratype \u21167 of Caymanostella spinimarginata",
+            "id": "C"
+        },
+        {
+            "description": "Adambulacral spines of the holotype of Caymanostella spinimarginata",
+            "id": "D"
+        },
+        {
+            "description": "Adambulacral spines of the holotype of Caymanostella spinimarginata",
+            "id": "E"
+        },
+        {
+            "description": "Abactinal spinelet of the holotype of Caymanostella spinimarginata",
+            "id": "F"
+        },
+        {
+            "description": "Abactinal spinelet of paratype \u21163 of Caymanostella spinimarginata",
+            "id": "G"
+        },
+        {
+            "description": "Abactinal spinelet of paratype \u21167 of Caymanostella spinimarginata",
+            "id": "H"
+        },
+        {
+            "description": "Inferomarginal spine of specimen \u21161 of C. cf. spinimarginata",
+            "id": "I"
+        },
+        {
+            "description": "Inferomarginal spine of specimen \u21162 of C. cf. spinimarginata",
+            "id": "J"
+        },
+        {
+            "description": "Inferomarginal spine of specimen \u21162 of C. cf. spinimarginata",
+            "id": "K"
+        },
+        {
+            "description": "Inferomarginal spine of specimen \u21162 of C. cf. spinimarginata",
+            "id": "L"
+        },
+        {
+            "description": "Adambulacral spines of specimen \u21161 of C. cf. spinimarginata",
+            "id": "M"
+        },
+        {
+            "description": "Adambulacral spines of specimen \u21161 of C. cf. spinimarginata",
+            "id": "N"
+        },
+        {
+            "description": "Adambulacral spine of specimen \u21162 of C. cf. spinimarginata",
+            "id": "O"
+        },
+        {
+            "description": "Abactinal spinelet of specimen \u21161 of C. cf. spinimarginata",
+            "id": "P"
+        },
+        {
+            "description": "Spinelet from the aboral side of inferomarginal plate of specimen \u21162 of C. cf. spinimarginata",
+            "id": "Q"
+        },
+        {
+            "description": "One of the enlarged abactinal spinelets of specimen \u21161 of C. cf. spinimarginata",
+            "id": "R"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Gothograptus kozlowskii KOZ\u0141OWSKA-DAWIDZIUK, 1990: finite rhabdosome with curved apertural spines from sample K2/13. Specimen is magnified 10 times and the scale bar is 1 mm.",
+            "id": "a"
+        },
+        {
+            "description": "Gothograptus kozlowskii KOZ\u0141OWSKA-DAWIDZIUK, 1990: sample K2/11. Specimen is magnified 10 times and the scale bar is 1 mm.",
+            "id": "b"
+        },
+        {
+            "description": "Semigothograptus meganassa (RICKARDS et PALMER, 2002): non-finite rhabdosome with free nema from sample K2/6. Specimen is magnified 10 times and the scale bar is 1 mm.",
+            "id": "c"
+        }
+    ]
+}

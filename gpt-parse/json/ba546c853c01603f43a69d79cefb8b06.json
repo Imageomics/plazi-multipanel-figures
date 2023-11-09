@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "a) HLMD-Me 910, holotype, upper teeth; a1 \u2013 left upper tooth row, P3\u2013P4\u2013M1\u20133, occlusal view; a2 \u2013 id. lingual aspect, a3 \u2013 buccal aspect of P4, a4 \u2013 right upper P4\u2013P3, lingual aspect.",
+            "id": "a"
+        },
+        {
+            "description": "b) HLMD-Me 910, holotype, right lower tooth row, p4\u2013m1\u20133; b1 \u2013 occlusal view, b2 \u2013 buccal aspect, b3 \u2013 lingual aspect.",
+            "id": "b"
+        }
+    ]
+}

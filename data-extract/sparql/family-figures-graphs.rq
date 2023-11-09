@@ -1,0 +1,26 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX bibo: <http://purl.org/ontology/bibo/> 
+PREFIX cito: <http://purl.org/spar/cito/> 
+PREFIX dc: <http://purl.org/dc/elements/1.1/> 
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/> 
+PREFIX dwcFP: <http://filteredpush.org/ontologies/oa/dwcFP#> 
+PREFIX fabio: <http://purl.org/spar/fabio/> 
+PREFIX mods: <http://www.loc.gov/mods/v3> 
+PREFIX trt: <http://plazi.org/vocab/treatment#> 
+PREFIX xlink: <http://www.w3.org/1999/xlink> 
+
+SELECT DISTINCT (STR(?family) AS ?fam) ?treatment ?figure (STR(?description) AS ?desc) (STR(?image) AS ?img) ?md5
+WHERE {
+  # data were loaded using file path as graph
+  GRAPH ?g {
+    ?treatment a trt:Treatment .
+    ?treatment trt:treatsTaxonName|trt:augmentsTaxonConcept|trt:definesTaxonConcept ?taxon .
+    ?taxon dwc:family ?family .
+    ?treatment cito:cites ?figure .
+    ?figure a fabio:Figure .
+    ?figure dc:description ?description .
+    ?figure fabio:hasRepresentation ?image .
+    BIND(CONCAT(STR(?g), "|", STR(?treatment), "|", STR(?figure), "|", STR(?description), "|", STR(?image)) AS ?id)
+    BIND(MD5(?id) AS ?md5)
+  }
+}

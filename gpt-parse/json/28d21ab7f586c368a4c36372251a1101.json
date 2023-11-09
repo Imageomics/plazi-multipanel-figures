@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal habitus of Nephropsis agassizii A. Milne-Edwards, 1880, female, TL 103 mm, Bpot-Talude MT- 83, MOUFPE 15. 152.",
+            "id": "A"
+        },
+        {
+            "description": "Dorsal view of the carapace of Nephropsis agassizii A. Milne-Edwards, 1880, female, TL 103 mm, Bpot-Talude MT- 83, MOUFPE 15. 152.",
+            "id": "B"
+        },
+        {
+            "description": "Right lateral view of the abdomen of Nephropsis agassizii A. Milne-Edwards, 1880, female, TL 103 mm, Bpot-Talude MT- 83, MOUFPE 15. 152.",
+            "id": "C"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Geographic distribution of Nephropsis agassizii A. Milne-Edwards, 1880 in the Atlantic Ocean. Black symbols = previous records; gray symbols = new records.",
+            "id": "A"
+        },
+        {
+            "description": "Geographic distribution of Nephropsis neglecta Holthuis, 1974 in the Atlantic Ocean. Black symbols = previous records; gray symbols = new records.",
+            "id": "B"
+        }
+    ]
+}

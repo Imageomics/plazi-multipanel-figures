@@ -1,0 +1,40 @@
+{
+    "subpanels": [
+        {
+            "description": "In situ appearance of Tedania (Tedaniopsis) tantula (Kirkpatrick, 1907).",
+            "id": "A"
+        },
+        {
+            "description": "Choanosomal skeleton of Tedania (Tedaniopsis) tantula (Kirkpatrick, 1907). Scale bar: 500 \u00b5m.",
+            "id": "B"
+        },
+        {
+            "description": "Ectosomal skeleton of Tedania (Tedaniopsis) tantula (Kirkpatrick, 1907). Scale bar: 500 \u00b5m.",
+            "id": "C"
+        },
+        {
+            "description": "Style of Tedania (Tedaniopsis) tantula (Kirkpatrick, 1907).",
+            "id": "D"
+        },
+        {
+            "description": "Tornote of Tedania (Tedaniopsis) tantula (Kirkpatrick, 1907).",
+            "id": "E"
+        },
+        {
+            "description": "Tornote ends of Tedania (Tedaniopsis) tantula (Kirkpatrick, 1907).",
+            "id": "F"
+        },
+        {
+            "description": "Small onychaete.",
+            "id": "G"
+        },
+        {
+            "description": "Large onychaete.",
+            "id": "H"
+        },
+        {
+            "description": "Large onychaete ends.",
+            "id": "I"
+        }
+    ]
+}

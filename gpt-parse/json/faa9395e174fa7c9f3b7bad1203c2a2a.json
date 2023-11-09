@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Specimen A is an adult male Gymnura lessae, sp. nov., with a dorsal view. It measures 440 mm DW.",
+            "id": "A"
+        },
+        {
+            "description": "Specimen B is an adult female Gymnura lessae, sp. nov., with a dorsal view. It measures 695 mm DW.",
+            "id": "B"
+        },
+        {
+            "description": "Specimen C is a juvenile male Gymnura lessae, sp. nov., with a dorsal view. It measures 244 mm DW.",
+            "id": "C"
+        },
+        {
+            "description": "Specimen D is a juvenile female Gymnura lessae, sp. nov., with a dorsal view. It measures 296 mm DW.",
+            "id": "D"
+        }
+    ]
+}

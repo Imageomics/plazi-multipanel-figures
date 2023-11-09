@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "Ventral view of N. truncata, sp. nov. male genitalia",
+            "id": "A"
+        },
+        {
+            "description": "Lateral view of N. truncata, sp. nov. male genitalia",
+            "id": "B"
+        },
+        {
+            "description": "Ventral view of N. ventralis male genitalia",
+            "id": "C"
+        },
+        {
+            "description": "Lateral view of N. ventralis male genitalia",
+            "id": "D"
+        },
+        {
+            "description": "Ventral view of N. vincentii male genitalia",
+            "id": "E"
+        },
+        {
+            "description": "Lateral view of N. vincentii male genitalia",
+            "id": "F"
+        }
+    ]
+}

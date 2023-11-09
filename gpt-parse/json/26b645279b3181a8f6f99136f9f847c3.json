@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Photomicrograph of sagittal histological section of the holotype of Daku riegeri sp. nov., showing the whole animal.",
+            "id": "A"
+        },
+        {
+            "description": "Photomicrograph of sagittal histological section of the holotype of Daku riegeri sp. nov., showing the copulatory organs.",
+            "id": "B"
+        },
+        {
+            "description": "Photomicrograph of sagittal histological section of the holotype of Daku riegeri sp. nov., showing the copulatory organs.",
+            "id": "C"
+        },
+        {
+            "description": "Photomicrograph of sagittal histological section of the holotype of Daku riegeri sp. nov., showing the copulatory organs.",
+            "id": "D"
+        }
+    ]
+}

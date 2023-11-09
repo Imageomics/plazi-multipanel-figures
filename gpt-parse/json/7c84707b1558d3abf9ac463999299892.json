@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Lateral view of the holotype male of Andhracoides shabuddin gen. nov., sp. nov.",
+            "id": "A"
+        },
+        {
+            "description": "Dorsal view of the holotype male of Andhracoides shabuddin gen. nov., sp. nov.",
+            "id": "B"
+        },
+        {
+            "description": "Head and pereonites 1 \u2013 3 of the holotype male of Andhracoides shabuddin gen. nov., sp. nov.",
+            "id": "C"
+        },
+        {
+            "description": "Pleotelson of the holotype male of Andhracoides shabuddin gen. nov., sp. nov.",
+            "id": "D"
+        },
+        {
+            "description": "Lateral view of the paratype female of Andhracoides shabuddin gen. nov., sp. nov.",
+            "id": "E"
+        }
+    ]
+}

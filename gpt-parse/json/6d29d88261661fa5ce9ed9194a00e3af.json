@@ -1,0 +1,36 @@
+{
+    "subpanels": [
+        {
+            "description": "Abaxial leaf surface pubescence of V.vinifera",
+            "id": "A"
+        },
+        {
+            "description": "Abaxial leaf surface pubescence of V.labrusca",
+            "id": "B"
+        },
+        {
+            "description": "Abaxial leaf surface pubescence of V. riparia",
+            "id": "C"
+        },
+        {
+            "description": "Abaxial leaf surface pubescence of V.\u00d7koberi",
+            "id": "D"
+        },
+        {
+            "description": "Abaxial leaf surface pubescence of V. rupestris",
+            "id": "E"
+        },
+        {
+            "description": "Abaxial leaf surface pubescence of V. \u00d7instabilis",
+            "id": "F"
+        },
+        {
+            "description": "Abaxial leaf surface pubescence of V. cinerea",
+            "id": "G"
+        },
+        {
+            "description": "Abaxial leaf surface pubescence of V.\u00d7ruggerii",
+            "id": "H"
+        }
+    ]
+}

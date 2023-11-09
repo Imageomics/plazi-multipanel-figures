@@ -1,0 +1,56 @@
+{
+    "subpanels": [
+        {
+            "description": "Pereopod 3 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "A"
+        },
+        {
+            "description": "Pereopod 4 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "B"
+        },
+        {
+            "description": "Pereopod 5 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "C"
+        },
+        {
+            "description": "Pereopod 6 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "D"
+        },
+        {
+            "description": "Pereopod 7 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "E"
+        },
+        {
+            "description": "Pleopod 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "F"
+        },
+        {
+            "description": "Pleopod 2 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "G"
+        },
+        {
+            "description": "Pleopod 3 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "H"
+        },
+        {
+            "description": "Dactylus of pereopod 5 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "I"
+        },
+        {
+            "description": "Dactylus of pereopod 3 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "J"
+        },
+        {
+            "description": "Uropod 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "K"
+        },
+        {
+            "description": "Uropod 2 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "L"
+        },
+        {
+            "description": "Uropod 3 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "M"
+        }
+    ]
+}

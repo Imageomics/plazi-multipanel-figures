@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "Left palp of the mandible, shown in dorsal view.",
+            "id": "A"
+        },
+        {
+            "description": "Right gnathal tip of the mandible, shown in medial view.",
+            "id": "B"
+        },
+        {
+            "description": "Left side of the mandible, shown in medial view.",
+            "id": "C"
+        },
+        {
+            "description": "Left gnathal margin of the mandible, shown in dorsal view.",
+            "id": "D"
+        },
+        {
+            "description": "Right gnathal margin of the mandible, shown in ventral view.",
+            "id": "E"
+        },
+        {
+            "description": "Paragnath of the mandible, shown in ventral view.",
+            "id": "F"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Head of Andhracoides shabuddin gen. nov., sp. nov. in lateral view.",
+            "id": "A"
+        },
+        {
+            "description": "Head of Andhracoides shabuddin gen. nov., sp. nov. in dorsal view.",
+            "id": "B"
+        },
+        {
+            "description": "Antennula and antenna of Andhracoides shabuddin gen. nov., sp. nov.",
+            "id": "C"
+        },
+        {
+            "description": "Antennula of Andhracoides shabuddin gen. nov., sp. nov. with enlargements of distal articles.",
+            "id": "D"
+        },
+        {
+            "description": "Head and pereopod I of paratype female of Andhracoides shabuddin gen. nov., sp. nov. in lateral view.",
+            "id": "E"
+        }
+    ]
+}

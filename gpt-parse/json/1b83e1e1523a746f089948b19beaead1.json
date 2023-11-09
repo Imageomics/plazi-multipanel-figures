@@ -1,0 +1,68 @@
+{
+    "subpanels": [
+        {
+            "description": "Head of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "A"
+        },
+        {
+            "description": "Antenna 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "B"
+        },
+        {
+            "description": "Antenna 2 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "C"
+        },
+        {
+            "description": "Flagellum of antenna 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "D"
+        },
+        {
+            "description": "Flagellum of antenna 2 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "E"
+        },
+        {
+            "description": "Upper lip of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "F"
+        },
+        {
+            "description": "Incisor of left mandible of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "G"
+        },
+        {
+            "description": "Palp of left mandible of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "H"
+        },
+        {
+            "description": "Lower lip of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "I"
+        },
+        {
+            "description": "Left maxilla 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "J"
+        },
+        {
+            "description": "Palp of right maxilla 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "K"
+        },
+        {
+            "description": "Maxilla 2 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "L"
+        },
+        {
+            "description": "Maxilliped of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "M"
+        },
+        {
+            "description": "Outer plate of maxilla 1 of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "N"
+        },
+        {
+            "description": "Incisor of right mandible of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "O"
+        },
+        {
+            "description": "Inner surface of palp of left mandible of Jesogammarus (Annanogammarus) debilis sp. nov., holotype, male.",
+            "id": "P"
+        }
+    ]
+}

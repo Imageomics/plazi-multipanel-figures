@@ -1,0 +1,32 @@
+{
+    "subpanels": [
+        {
+            "description": "Retiolitid graptolite Gothograptus aff. domeyki in profile view with small nassa-type genicular hoods on 1st and 2nd pair of thecae. Sample K2/18.",
+            "id": "a"
+        },
+        {
+            "description": "Retiolitid graptolite Gothograptus aff. domeyki in latero-ventral view showing narrow orifices, thickened thecal lips, and a very small genicular hood on th 1. Sample K2/22.",
+            "id": "b"
+        },
+        {
+            "description": "Retiolitid graptolite Gothograptus aff. domeyki in obverse view with small genicular hoods on th11 and th12, and small lateral spines in the next two thecae. Sample K2/15.",
+            "id": "c"
+        },
+        {
+            "description": "Retiolitid graptolite Gothograptus kozlowskii showing broadened bases of the apertural spines. Sample K2/11.",
+            "id": "d"
+        },
+        {
+            "description": "Retiolitid graptolite Gothograptus kozlowskii in finite rhabdosome obverse profile view. Sample K2/13.",
+            "id": "e"
+        },
+        {
+            "description": "Retiolitid graptolite Gothograptus kozlowskii in latero-ventral (subscalariform) view. Sample K2/21.",
+            "id": "f"
+        },
+        {
+            "description": "Retiolitid graptolite Semigothograptus meganassa. Sample K2/6.",
+            "id": "g"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "Sarcophila latifrons (Fall\u00e9n, 1817), male, Xinjiang, Altay, Kalamaili, 26.V.2014, MZ leg. Habitus, lateral view. The subpanel shows the overall body shape and structure of a male Sarcophila latifrons specimen collected in Xinjiang, Altay, Kalamaili on May 26, 2014. The lateral view allows for observation of the side profile of the specimen.",
+            "id": "A"
+        },
+        {
+            "description": "Sarcophila latifrons (Fall\u00e9n, 1817), male, Xinjiang, Altay, Kalamaili, 26.V.2014, MZ leg. Head, lateral view. This subpanel provides a lateral view of the head of a male Sarcophila latifrons specimen collected in Xinjiang, Altay, Kalamaili on May 26, 2014. It allows for observation of the side profile of the head.",
+            "id": "B"
+        },
+        {
+            "description": "Sarcophila latifrons (Fall\u00e9n, 1817), male, Xinjiang, Altay, Kalamaili, 26.V.2014, MZ leg. Head, anterior view. This subpanel provides an anterior view of the head of a male Sarcophila latifrons specimen collected in Xinjiang, Altay, Kalamaili on May 26, 2014. It allows for observation of the front side of the head.",
+            "id": "C"
+        },
+        {
+            "description": "Sarcophila latifrons (Fall\u00e9n, 1817), male, Xinjiang, Altay, Kalamaili, 26.V.2014, MZ leg. Head, anterolateral view. This subpanel provides an anterolateral view of the head of a male Sarcophila latifrons specimen collected in Xinjiang, Altay, Kalamaili on May 26, 2014. It allows for observation of the front and side profile of the head.",
+            "id": "D"
+        },
+        {
+            "description": "Sarcophila latifrons (Fall\u00e9n, 1817), male, Xinjiang, Altay, Kalamaili, 26.V.2014, MZ leg. Right wing, dorsal view. This subpanel provides a dorsal view of the right wing of a male Sarcophila latifrons specimen collected in Xinjiang, Altay, Kalamaili on May 26, 2014. It allows for observation of the upper side of the right wing.",
+            "id": "E"
+        },
+        {
+            "description": "Sarcophila latifrons (Fall\u00e9n, 1817), male, Xinjiang, Altay, Kalamaili, 26.V.2014, MZ leg. Abdomen, dorsal view. This subpanel provides a dorsal view of the abdomen of a male Sarcophila latifrons specimen collected in Xinjiang, Altay, Kalamaili on May 26, 2014. It allows for observation of the upper side of the abdomen.",
+            "id": "F"
+        }
+    ]
+}

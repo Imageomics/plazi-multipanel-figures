@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Harmostes gravidator (Fabricius, 1794)",
+            "id": "34"
+        },
+        {
+            "description": "Harmostes serratus (Fabricius, 1775)",
+            "id": "35"
+        },
+        {
+            "description": "Niesthrea pictipes (St\u00e5l, 1859)",
+            "id": "36"
+        },
+        {
+            "description": "Jadera coturnix (Burmeister, 1835)",
+            "id": "37"
+        }
+    ]
+}
