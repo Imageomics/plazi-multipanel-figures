@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Habitus, ventral view of Gigarachne bian Jiang & Li, gen. & sp. nov., holotype male.",
+            "id": "A"
+        },
+        {
+            "description": "Habitus, dorsal view of Gigarachne bian Jiang & Li, gen. & sp. nov., holotype male.",
+            "id": "B"
+        },
+        {
+            "description": "Tarsal claws of left leg II of Gigarachne bian Jiang & Li, gen. & sp. nov., holotype male.",
+            "id": "C"
+        },
+        {
+            "description": "Eye domain, dorsal view of Gigarachne bian Jiang & Li, gen. & sp. nov., holotype male.",
+            "id": "D"
+        },
+        {
+            "description": "Mouthparts, ventral view of Gigarachne bian Jiang & Li, gen. & sp. nov., holotype male.",
+            "id": "E"
+        }
+    ]
+}

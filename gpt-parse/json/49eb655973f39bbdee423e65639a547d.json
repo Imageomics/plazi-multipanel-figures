@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Type specimen of Parnassia xinganensis",
+            "id": "A"
+        },
+        {
+            "description": "Type specimen of Parnassia guilinensis",
+            "id": "B"
+        }
+    ]
+}

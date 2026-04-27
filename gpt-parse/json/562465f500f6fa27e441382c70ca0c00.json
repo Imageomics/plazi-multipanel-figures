@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Measurements and ratios to classify lateral sinus morphology (LS\u00b0 = lateral sinus angle, LSp = lateral sinus position, LSd = lateral sinus depth).",
+            "id": "A"
+        },
+        {
+            "description": "Classification of lateral sinus angles; grey area represents angles documented in Paratethyan Turritellidae.",
+            "id": "B"
+        },
+        {
+            "description": "Notation system for describing spiral cords in turritellids: A, B, C, d = primary spiral cords, r, s, t, u = secondary spiral cords (adopted from Allmon 1996).",
+            "id": "C"
+        }
+    ]
+}

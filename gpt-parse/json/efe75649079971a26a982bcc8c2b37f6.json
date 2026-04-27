@@ -1,0 +1,88 @@
+{
+    "subpanels": [
+        {
+            "description": "Uvigerina cf. U. porrecta Brady, 1879, QM G 465988 from OTI 51. Scale bar = 50 \u00b5m. Lateral view.",
+            "id": "1"
+        },
+        {
+            "description": "Uvigerina cf. U. porrecta Brady, 1879, QM G 465988 from OTI 51. Scale bar = 50 \u00b5m. Oral view.",
+            "id": "2"
+        },
+        {
+            "description": "Trifarina pacifica (Albani, 1974), QM G 465989 from OTI 51. Scale bar = 50 \u00b5m. Lateral view.",
+            "id": "3"
+        },
+        {
+            "description": "Trifarina pacifica (Albani, 1974), QM G 465989 from OTI 51. Scale bar = 50 \u00b5m. Oral view.",
+            "id": "4"
+        },
+        {
+            "description": "Fijiella simplex (Cushman, 1929), QM G 465828 from OTI 39. Lateral view.",
+            "id": "5"
+        },
+        {
+            "description": "Fijiella simplex (Cushman, 1929), QM G 465828 from OTI 39. Oral view.",
+            "id": "6"
+        },
+        {
+            "description": "Eponides cf. E. repandus (Fichtel & Moll, 1798), QM G 465880 from CHANNEL, scale bar = 200 \u00b5m. Spiral view.",
+            "id": "7"
+        },
+        {
+            "description": "Eponides cf. E. repandus (Fichtel & Moll, 1798), QM G 465880 from CHANNEL, scale bar = 200 \u00b5m. Peripheral view.",
+            "id": "8"
+        },
+        {
+            "description": "Eponides cf. E. repandus (Fichtel & Moll, 1798), QM G 465881 from CHANNEL, umbilical view. Scale bar = 500 \u00b5m.",
+            "id": "9"
+        },
+        {
+            "description": "Eponides cf. E. repandus (Fichtel & Moll, 1798), QM G 465872 from CHANNEL, umbilical view. Scale bar = 200 \u00b5m.",
+            "id": "10"
+        },
+        {
+            "description": "Orbitina parri Collins, 1974, QM G 466000 from OTI 47. Scale bar = 50 \u00b5m. Spiral view.",
+            "id": "11"
+        },
+        {
+            "description": "Orbitina parri Collins, 1974, QM G 466000 from OTI 47. Scale bar = 50 \u00b5m. Umbilical view.",
+            "id": "12"
+        },
+        {
+            "description": "Orbitina parri Collins, 1974, QM G 466000 from OTI 47. Scale bar = 50 \u00b5m. Peripheral view.",
+            "id": "13"
+        },
+        {
+            "description": "Rotorbis cf. R auberii (d\u2019Orbigny, 1839). QM G 465914 from OTI 53 spiral view, scale bar = 50 \u00b5m.",
+            "id": "14"
+        },
+        {
+            "description": "Rotorbis cf. R auberii (d\u2019Orbigny, 1839). QM G 465915, umbilical view. Scale bar = 50 \u00b5m.",
+            "id": "15"
+        },
+        {
+            "description": "Rotorbis cf. R auberii (d\u2019Orbigny, 1839). QM G 465915, peripheral view. Scale bar = 50 \u00b5m.",
+            "id": "16"
+        },
+        {
+            "description": "Neoconorbina sp. 1. QM G 466138 from ST / HW 8, spiral view. Scale bar = 50 \u00b5m.",
+            "id": "17"
+        },
+        {
+            "description": "Neoconorbina sp. 1. QM G 466138 from ST / HW 8, peripheral view. Scale bar = 50 \u00b5m.",
+            "id": "18"
+        },
+        {
+            "description": "Neoconorbina sp. 1. QM G 466008 from OTI 47, spiral view. Scale bar = 50 \u00b5m.",
+            "id": "19"
+        },
+        {
+            "description": "Neoconorbina sp. 1. QM G 466008 from OTI 47, peripheral view. Scale bar = 50 \u00b5m.",
+            "id": "20"
+        },
+        {
+            "description": "Neoconorbina sp. 1. QM G 466008 from OTI 47, umbilical view. Scale bar = 50 \u00b5m.",
+            "id": "21"
+        }
+    ]
+}

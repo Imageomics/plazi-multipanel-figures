@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal idiosoma of Amazoniaseius imparisetosus n. sp., n. g.",
+            "id": "1"
+        },
+        {
+            "description": "Ventral idiosoma of Amazoniaseius imparisetosus n. sp., n. g.",
+            "id": "2"
+        },
+        {
+            "description": "Chelicera of Amazoniaseius imparisetosus n. sp., n. g.",
+            "id": "3"
+        },
+        {
+            "description": "Spermatheca of Amazoniaseius imparisetosus n. sp., n. g.",
+            "id": "4"
+        },
+        {
+            "description": "Genu, t\u00edbia and basitarsus of leg IV of Amazoniaseius imparisetosus n. sp., n. g.",
+            "id": "5"
+        }
+    ]
+}

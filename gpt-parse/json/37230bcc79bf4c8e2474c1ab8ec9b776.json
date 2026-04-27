@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Aboral view of whole animal, sample BFLA4022, diameter 14 mm. Cunina becki.",
+            "id": "A"
+        },
+        {
+            "description": "Medusa in contraction phase, sample BFLA4025. Cunina becki.",
+            "id": "B"
+        },
+        {
+            "description": "BFLA4023, side view showing optical cross-section through gastric pockets (secant plane of bell), oral side is downwards, arrows indicate the lateral margins of one gastric pocket. Cunina becki.",
+            "id": "C"
+        },
+        {
+            "description": "Gastric pockets seen from above, note transition from the opaque zone with the developing gonads to clear part (arrow). Cunina becki.",
+            "id": "D"
+        },
+        {
+            "description": "BFLA4022, bell margin showing several otoporpae per lappet (yellow arrows) and the bases of tentacles (red arrows). Cunina becki.",
+            "id": "E-F"
+        }
+    ]
+}

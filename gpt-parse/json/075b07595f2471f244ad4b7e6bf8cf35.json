@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal view of Nothrus cotopaxiensis n. sp., adult.",
+            "id": "3"
+        },
+        {
+            "description": "Ventral view of Nothrus cotopaxiensis n. sp., adult.",
+            "id": "4"
+        },
+        {
+            "description": "Fragment of prodorsum of Nothrus cotopaxiensis n. sp., adult.",
+            "id": "5"
+        },
+        {
+            "description": "Tip of sensillus of Nothrus cotopaxiensis n. sp., adult.",
+            "id": "6"
+        },
+        {
+            "description": "Seta c1 of Nothrus cotopaxiensis n. sp., adult.",
+            "id": "7"
+        },
+        {
+            "description": "Seta le of Nothrus cotopaxiensis n. sp., adult.",
+            "id": "8"
+        }
+    ]
+}

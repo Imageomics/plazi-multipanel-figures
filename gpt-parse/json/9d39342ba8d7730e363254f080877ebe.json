@@ -1,0 +1,60 @@
+{
+    "subpanels": [
+        {
+            "description": "Habit of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "A"
+        },
+        {
+            "description": "Leaf adaxial (left) and abaxial (right) surface of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "B"
+        },
+        {
+            "description": "Ligule of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "C"
+        },
+        {
+            "description": "Rhizome of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "D"
+        },
+        {
+            "description": "Inflorescence of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "E"
+        },
+        {
+            "description": "Flower of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "F"
+        },
+        {
+            "description": "Bracts of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "G"
+        },
+        {
+            "description": "Calyx tube of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "H"
+        },
+        {
+            "description": "Corolla lobes of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "I"
+        },
+        {
+            "description": "Labellum of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "J"
+        },
+        {
+            "description": "Stamen and pistil of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "K"
+        },
+        {
+            "description": "Ovary of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "L"
+        },
+        {
+            "description": "Fruit of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "M"
+        },
+        {
+            "description": "Seeds of Zingiber pleiostachyum K.Schum., Chichidashan.",
+            "id": "N"
+        }
+    ]
+}

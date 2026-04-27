@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Squalus melanurus Fourmanoir,1979 in lateral view. MNHN-IC-1980-0460 (holotype of S. melanurus), adult male, 670 mm TL.",
+            "id": "A"
+        },
+        {
+            "description": "Squalus melanurus Fourmanoir,1979 in lateral view. MNHN-IC-1978-0693 (holotype of S. rancureli Fourmanoir, 1979), adult male, 680 mm TL.",
+            "id": "B"
+        },
+        {
+            "description": "Squalus melanurus Fourmanoir,1979 in lateral view. MNHN-IC-2002-1392, adult female, 665 mm TL.",
+            "id": "C"
+        },
+        {
+            "description": "Squalus melanurus Fourmanoir,1979 in lateral view. MNHN-IC-1997-3619, juvenile female, 527 mm TL.",
+            "id": "D"
+        }
+    ]
+}

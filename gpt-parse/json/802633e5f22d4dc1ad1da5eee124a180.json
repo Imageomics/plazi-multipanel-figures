@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Aplocheilus andamanicus, male, BNHS FWF 563, 65.2 mm SL",
+            "id": "A"
+        },
+        {
+            "description": "A. andamanicus female, BNHS FWF 562, 65.0 mm SL",
+            "id": "B"
+        },
+        {
+            "description": "A. andamanicus, female, BNHS FWF 564, 30.8 mm SL",
+            "id": "C"
+        },
+        {
+            "description": "A. panchax, male, BNHS FWF 569, 28.3 mm SL",
+            "id": "D"
+        }
+    ]
+}

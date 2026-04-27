@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal view of the cranium of Pyrochroa coccinea.",
+            "id": "A"
+        },
+        {
+            "description": "Dorsal view of the cranium of P. serraticornis.",
+            "id": "B"
+        },
+        {
+            "description": "Ventral view of the cranium of P. coccinea.",
+            "id": "C"
+        },
+        {
+            "description": "Ventral view of the cranium of P. serraticornis.",
+            "id": "D"
+        },
+        {
+            "description": "Ventral view of the right maxilla of P. coccinea.",
+            "id": "E"
+        },
+        {
+            "description": "Ventral view of the right maxilla of P. serraticornis.",
+            "id": "F"
+        }
+    ]
+}

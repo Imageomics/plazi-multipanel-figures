@@ -1,0 +1,36 @@
+{
+    "subpanels": [
+        {
+            "description": "Aboral view of Caymanostella admiranda, holotype",
+            "id": "A"
+        },
+        {
+            "description": "Oral view of Caymanostella admiranda, holotype",
+            "id": "B"
+        },
+        {
+            "description": "Aboral view of Caymanostella madagascarensis, holotype",
+            "id": "C"
+        },
+        {
+            "description": "Oral view of Caymanostella madagascarensis, holotype",
+            "id": "D"
+        },
+        {
+            "description": "Aboral view of Caymanostella spinimarginata, paratype \u21161",
+            "id": "E"
+        },
+        {
+            "description": "Oral view of Caymanostella spinimarginata, paratype \u21161",
+            "id": "F"
+        },
+        {
+            "description": "Aboral view of Caymanostella cf. spinimarginata, specimen \u21161",
+            "id": "G"
+        },
+        {
+            "description": "Oral view of Caymanostella cf. spinimarginata, specimen \u21161",
+            "id": "H"
+        }
+    ]
+}

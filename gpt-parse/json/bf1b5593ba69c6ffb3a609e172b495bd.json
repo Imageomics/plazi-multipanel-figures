@@ -1,0 +1,44 @@
+{
+    "subpanels": [
+        {
+            "description": "Habit and inflorescence of Aframomum sericeum. The scale bar is 5 cm.",
+            "id": "A"
+        },
+        {
+            "description": "Leaf sheath and ligule of Aframomum sericeum. The scale bar is 1 cm.",
+            "id": "B"
+        },
+        {
+            "description": "Detail of leaf sheath ornamentation of Aframomum sericeum. The scale bar is 2 mm.",
+            "id": "C"
+        },
+        {
+            "description": "Leaf of Aframomum sericeum. The scale bar is 5 cm.",
+            "id": "D"
+        },
+        {
+            "description": "Adaxial lamina showing free hypodermal sclerenchyma of Aframomum sericeum. The scale bar is 1 mm.",
+            "id": "E"
+        },
+        {
+            "description": "Abaxial lamina and midrib of Aframomum sericeum. The scale bar is 5 mm.",
+            "id": "F"
+        },
+        {
+            "description": "Detail of internal floral structures of Aframomum sericeum. The scale bar is 4 cm.",
+            "id": "G"
+        },
+        {
+            "description": "Anther of Aframomum sericeum. The scale bar is 5 mm.",
+            "id": "H"
+        },
+        {
+            "description": "Stigma of Aframomum sericeum. The scale bar is 5 mm.",
+            "id": "I"
+        },
+        {
+            "description": "Infructescence of Aframomum sericeum. The scale bar is 3 cm.",
+            "id": "J"
+        }
+    ]
+}

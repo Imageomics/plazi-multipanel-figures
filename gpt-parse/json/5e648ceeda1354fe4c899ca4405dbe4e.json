@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Adaxial surface of Vitis riparia leaf blade",
+            "id": "a"
+        },
+        {
+            "description": "Adaxial surface of Vitis riparia leaf blade",
+            "id": "b"
+        },
+        {
+            "description": "Abaxial surface of Vitis riparia leaf blade",
+            "id": "c"
+        },
+        {
+            "description": "Adaxial surface of Vitis riparia leaf blade",
+            "id": "d"
+        }
+    ]
+}

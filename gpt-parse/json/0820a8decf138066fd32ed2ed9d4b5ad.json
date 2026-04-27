@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Photomicrograph of a living specimen of Daku riegeri sp. nov., showing the whole animal.",
+            "id": "A"
+        },
+        {
+            "description": "Photomicrograph of male and female copulatory organs of Daku riegeri sp. nov.",
+            "id": "B"
+        }
+    ]
+}

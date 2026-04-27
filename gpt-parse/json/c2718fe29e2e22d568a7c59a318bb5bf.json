@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Holotype of Eleutherodactylus franzi, sp. nov., INIRENA 2900 (CIG 01725), El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico in life.",
+            "id": "A"
+        },
+        {
+            "description": "Holotype of Eleutherodactylus franzi, sp. nov., INIRENA 2900 (CIG 01725), El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico in life.",
+            "id": "B"
+        },
+        {
+            "description": "Holotype of Eleutherodactylus franzi, sp. nov., INIRENA 2900 (CIG 01725), El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico in life.",
+            "id": "C"
+        },
+        {
+            "description": "Holotype of Eleutherodactylus franzi, sp. nov., INIRENA 2900 (CIG 01725), El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico in preservative.",
+            "id": "D"
+        },
+        {
+            "description": "Holotype of Eleutherodactylus franzi, sp. nov., INIRENA 2900 (CIG 01725), El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico in preservative.",
+            "id": "E"
+        }
+    ]
+}

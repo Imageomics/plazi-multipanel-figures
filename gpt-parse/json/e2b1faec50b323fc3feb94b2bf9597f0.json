@@ -1,0 +1,36 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal view of male Eupanisellus kazakhstanicus n. sp.",
+            "id": "1"
+        },
+        {
+            "description": "Ventral view of male Eupanisellus kazakhstanicus n. sp.",
+            "id": "2"
+        },
+        {
+            "description": "Close-up of seta Fch of male Eupanisellus kazakhstanicus n. sp.",
+            "id": "3"
+        },
+        {
+            "description": "Close-up of seta Fp of male Eupanisellus kazakhstanicus n. sp.",
+            "id": "4"
+        },
+        {
+            "description": "Close-up of seta Vi of male Eupanisellus kazakhstanicus n. sp.",
+            "id": "5"
+        },
+        {
+            "description": "Fragment of integument of male Eupanisellus kazakhstanicus n. sp.",
+            "id": "6"
+        },
+        {
+            "description": "Eye capsule of male Eupanisellus kazakhstanicus n. sp.",
+            "id": "7"
+        },
+        {
+            "description": "Ejaculatory complex of male Eupanisellus kazakhstanicus n. sp.",
+            "id": "8"
+        }
+    ]
+}

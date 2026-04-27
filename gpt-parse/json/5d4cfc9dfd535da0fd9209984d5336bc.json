@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Apical view of Gigarachne bian Jiang & Li, gen. & sp. nov., holotype male right male palp.",
+            "id": "A"
+        },
+        {
+            "description": "Retrolateral view of Gigarachne bian Jiang & Li, gen. & sp. nov., holotype male right male palp.",
+            "id": "B"
+        },
+        {
+            "description": "Ventral view of Gigarachne bian Jiang & Li, gen. & sp. nov., holotype male right male palp.",
+            "id": "C"
+        }
+    ]
+}

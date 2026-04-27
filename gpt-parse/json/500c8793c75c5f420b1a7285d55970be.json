@@ -1,0 +1,48 @@
+{
+    "subpanels": [
+        {
+            "description": "Lateral view of female (SL-108) of Echinorhinus sp. 1 (Echinorhinidae)",
+            "id": "A"
+        },
+        {
+            "description": "Ventral view of head of female (SL-108) of Echinorhinus sp. 1 (Echinorhinidae)",
+            "id": "B"
+        },
+        {
+            "description": "Teeth of upper jaw of female (SL-108) of Echinorhinus sp. 1 (Echinorhinidae)",
+            "id": "C"
+        },
+        {
+            "description": "Teeth of lower jaw of female (SL-108) of Echinorhinus sp. 1 (Echinorhinidae)",
+            "id": "D"
+        },
+        {
+            "description": "Lateral view of immature male (SL-106) of Hexanchus griseus (Hexanchidae)",
+            "id": "E"
+        },
+        {
+            "description": "Ventral view of head of female (SL-91) of Hexanchus griseus (Hexanchidae)",
+            "id": "F"
+        },
+        {
+            "description": "Teeth of upper jaw of female (SL-91) of Hexanchus griseus (Hexanchidae)",
+            "id": "G"
+        },
+        {
+            "description": "Teeth of lower jaw of female (SL-91) of Hexanchus griseus (Hexanchidae)",
+            "id": "H"
+        },
+        {
+            "description": "Lateral view of mature male of Chiloscyllium sp. 1 (Hemiscylliidae)",
+            "id": "I"
+        },
+        {
+            "description": "Ventral view of head of mature male (SL-59) of Chiloscyllium sp. 1 (Hemiscylliidae)",
+            "id": "J"
+        },
+        {
+            "description": "Dorsal view of head and trunk of mature male (SL-59) of Chiloscyllium sp. 1 (Hemiscylliidae)",
+            "id": "K"
+        }
+    ]
+}

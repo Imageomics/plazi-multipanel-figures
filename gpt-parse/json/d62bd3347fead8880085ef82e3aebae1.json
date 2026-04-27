@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "Platylepas hexastylos (Fabricius, 1794), ZUTC-cirri 1218, Gwatr, Gulf of Oman, dorsal view",
+            "id": "a"
+        },
+        {
+            "description": "Platylepas hexastylos, ventral view",
+            "id": "b"
+        },
+        {
+            "description": "Chelonibia testudinaria (Linnaeus, 1758), ZUTC-cirri 1144, Nayband, Persian Gulf, dorsal view",
+            "id": "c"
+        },
+        {
+            "description": "C. patula (Ranzani, 1818), ZUTC-cirri 1142, Minab, Strait of Hormoz, with polygonal orifice; dorsal view",
+            "id": "d"
+        },
+        {
+            "description": "C. patula, ZUTC-cirri 1144, from Bandar-Lengeh, Persian Gulf, with oval orifice, dorsal view",
+            "id": "e"
+        },
+        {
+            "description": "C. patula, from Dayyer, on crab Portunus segnis (Forsk\u00e5l, 1775)",
+            "id": "f"
+        }
+    ]
+}

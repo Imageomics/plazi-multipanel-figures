@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Panel A depicts the dorsal habitus of an ovigerous female Nephropsis neglecta Holthuis, 1974. The total length of the specimen is 84 mm. The specimen was collected from Bpot-Talude MT 71 - 2, MOUFPE 15.",
+            "id": "A"
+        },
+        {
+            "description": "Panel B shows the dorsal view of the carapace of Nephropsis neglecta Holthuis, 1974.",
+            "id": "B"
+        },
+        {
+            "description": "Panel C displays the right lateral view of the abdomen of Nephropsis neglecta Holthuis, 1974.",
+            "id": "C"
+        }
+    ]
+}

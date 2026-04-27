@@ -1,0 +1,20 @@
+{
+    "subpanels": [
+        {
+            "description": "Madreporite of Caymanostella madagascarensis, RV Vityaz II, St. 2653, holotype.",
+            "id": "A"
+        },
+        {
+            "description": "Madreporite of Caymanostella admiranda, RV Dmitry Mendeleev, St. 1234, holotype.",
+            "id": "B"
+        },
+        {
+            "description": "Madreporite of Caymanostella spinimarginata, RV Akademik Kurchatov, St. 1267, paratype \u21163.",
+            "id": "C"
+        },
+        {
+            "description": "Madreporite of Caymanostella cf. spinimarginata, RV Sonne, St. SO250-9, specimen \u21161.",
+            "id": "D"
+        }
+    ]
+}

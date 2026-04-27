@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal view of the mature larva of Pyrochroa coccinea. The larva is shown in its natural habitus.",
+            "id": "A"
+        },
+        {
+            "description": "Dorsal view of the pre-mature instar larva of P. serraticornis. The larva is shown in its natural habitus.",
+            "id": "B"
+        }
+    ]
+}

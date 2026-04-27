@@ -1,0 +1,36 @@
+{
+    "subpanels": [
+        {
+            "description": "Petiole insertion (abaxial surface) of V.cinerea. Photo by Michele Zilioli.",
+            "id": "A"
+        },
+        {
+            "description": "Petiole insertion detail of V.cinerea. Photo by Michele Zilioli.",
+            "id": "B"
+        },
+        {
+            "description": "Petiole insertion (abaxial surface) of V.\u00d7koberi. Photo by Michele Zilioli.",
+            "id": "C"
+        },
+        {
+            "description": "Petiole insertion detail of V.\u00d7koberi. Photo by Michele Zilioli.",
+            "id": "D"
+        },
+        {
+            "description": "Petiole insertion (abaxial surface) of V. vinifera. Photo by Michele Zilioli.",
+            "id": "E"
+        },
+        {
+            "description": "Petiole insertion (abaxial surface) of V. vinifera. Photo by Michele Zilioli.",
+            "id": "F"
+        },
+        {
+            "description": "Petiole insertion (abaxial surface) of V. labrusca. Photo by Michele Zilioli.",
+            "id": "G"
+        },
+        {
+            "description": "Petiole insertion detail of V. vinifera. Photo by Michele Zilioli.",
+            "id": "H"
+        }
+    ]
+}

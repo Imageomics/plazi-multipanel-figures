@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "SEM photograph of internal surface of operculum of Phallomedusa solida (Martens, 1878).",
+            "id": "A"
+        },
+        {
+            "description": "SEM photograph of internal surface of operculum of Lactiforis tropicalis sp. nov.",
+            "id": "B"
+        },
+        {
+            "description": "SEM photograph of internal surface of operculum of Salinator rhamphidia sp. nov.",
+            "id": "C"
+        },
+        {
+            "description": "SEM photograph of internal surface of operculum of Salinator rosacea sp. nov.",
+            "id": "D"
+        },
+        {
+            "description": "SEM photograph of exterior surface of operculum of Maningrida arnhemensis sp. nov.",
+            "id": "E"
+        },
+        {
+            "description": "SEM photograph of detail of nucleus on internal surface of operculum of Maningrida arnhemensis sp. nov.",
+            "id": "F"
+        }
+    ]
+}

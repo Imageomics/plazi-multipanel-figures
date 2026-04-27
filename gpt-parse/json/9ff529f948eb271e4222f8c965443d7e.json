@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Paratype of Eleutherodactylus franzi sp. nov., in life. Location: El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico.",
+            "id": "A-C"
+        },
+        {
+            "description": "Paratype of Eleutherodactylus franzi sp. nov., in life. Location: El Cucharillo, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico.",
+            "id": "D-F"
+        },
+        {
+            "description": "Paratype of Eleutherodactylus franzi sp. nov., in life. Location: 3 km E of Ixcateopan de Cuauhtemoc, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico.",
+            "id": "G-I"
+        },
+        {
+            "description": "Paratype of Eleutherodactylus franzi sp. nov., in life. Location: 3 km E of Ixcateopan de Cuauhtemoc, Municipio de Ixcateopan de Cuauhtemoc, Guerrero, Mexico.",
+            "id": "J-L"
+        },
+        {
+            "description": "Paratype of Eleutherodactylus franzi sp. nov., in life. Location: between El Cucharillo and Chichila, Municipio de Taxco de Alarcon, Guerrero, Mexico.",
+            "id": "M-O"
+        }
+    ]
+}

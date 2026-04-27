@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Lateral view of Allomyia renoa male genitalia, scale line = 0.2 mm.",
+            "id": "1"
+        },
+        {
+            "description": "Dorsal view of Allomyia renoa male genitalia, scale line = 0.2 mm.",
+            "id": "2"
+        },
+        {
+            "description": "Ventral view of Allomyia renoa male genitalia, scale line = 0.2 mm.",
+            "id": "3"
+        },
+        {
+            "description": "Lateral view of Allomyia renoa male phallus, scale line = 0.2 mm.",
+            "id": "4"
+        },
+        {
+            "description": "Ventral view of Allomyia renoa male phallus, scale line = 0.2 mm.",
+            "id": "5"
+        }
+    ]
+}

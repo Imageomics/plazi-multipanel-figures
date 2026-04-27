@@ -1,0 +1,24 @@
+{
+    "subpanels": [
+        {
+            "description": "Overview of Glinus bainesii plant in Okavango Delta, Ngamiland, Botswana, taken on 28 Nov 2004 by Roger and Alison Heath.",
+            "id": "A"
+        },
+        {
+            "description": "Overview of Glinus bainesii plant in Moremi Game Reserve, Ngamiland, Botswana, taken on 21 Nov 2007 by Roger and Alison Heath.",
+            "id": "B"
+        },
+        {
+            "description": "Flowers of Glinus bainesii plant in Okavango Delta, Ngamiland, Botswana, taken on 28 Nov 2004 by Roger and Alison Heath.",
+            "id": "C"
+        },
+        {
+            "description": "Leaves of Glinus bainesii plant in Moremi Game Reserve, Ngamiland, Botswana, taken on 21 Nov 2007 by Roger and Alison Heath.",
+            "id": "D"
+        },
+        {
+            "description": "Close-up of individual flowers of Glinus bainesii plant in Okavango Delta, Ngamiland, Botswana, taken on 28 Nov 2004 by Roger and Alison Heath.",
+            "id": "E-G"
+        }
+    ]
+}

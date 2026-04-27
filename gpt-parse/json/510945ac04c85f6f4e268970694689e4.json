@@ -1,0 +1,40 @@
+{
+    "subpanels": [
+        {
+            "description": "Dorsal view of Nothrus glaesarius n. sp., larva.",
+            "id": "9"
+        },
+        {
+            "description": "Ventral view of Nothrus glaesarius n. sp., larva.",
+            "id": "10"
+        },
+        {
+            "description": "Close-up of seta c1 on Nothrus glaesarius n. sp., larva.",
+            "id": "11"
+        },
+        {
+            "description": "Close-up of seta c2 on Nothrus glaesarius n. sp., larva.",
+            "id": "12"
+        },
+        {
+            "description": "Close-up of seta c3 on Nothrus glaesarius n. sp., larva.",
+            "id": "13"
+        },
+        {
+            "description": "Close-up of seta f1 on Nothrus glaesarius n. sp., larva.",
+            "id": "14"
+        },
+        {
+            "description": "Close-up of seta f2 on Nothrus glaesarius n. sp., larva.",
+            "id": "15"
+        },
+        {
+            "description": "Close-up of seta h2 on Nothrus glaesarius n. sp., larva.",
+            "id": "16"
+        },
+        {
+            "description": "Close-up of seta h1 on Nothrus glaesarius n. sp., larva.",
+            "id": "17"
+        }
+    ]
+}

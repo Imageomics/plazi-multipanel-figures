@@ -1,0 +1,48 @@
+{
+    "subpanels": [
+        {
+            "description": "Habitus of holotype RMNH Por. 9324 (scale bar = 1 cm)",
+            "id": "a"
+        },
+        {
+            "description": "SEM image of choanosomal style spicule",
+            "id": "b"
+        },
+        {
+            "description": "Detail of choanosomal style spicule",
+            "id": "b1"
+        },
+        {
+            "description": "SEM image of ectosomal style spicule",
+            "id": "c"
+        },
+        {
+            "description": "Detail of ectosomal style spicule",
+            "id": "c1"
+        },
+        {
+            "description": "SEM image of long onychaete",
+            "id": "d"
+        },
+        {
+            "description": "Detail of long onychaete",
+            "id": "d1"
+        },
+        {
+            "description": "Detail of tyle",
+            "id": "d2"
+        },
+        {
+            "description": "SEM image of small onychaete",
+            "id": "e"
+        },
+        {
+            "description": "Magnified image of small onychaete",
+            "id": "e1"
+        },
+        {
+            "description": "Detail of tyle",
+            "id": "e2"
+        }
+    ]
+}

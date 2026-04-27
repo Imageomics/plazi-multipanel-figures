@@ -1,0 +1,28 @@
+{
+    "subpanels": [
+        {
+            "description": "Male genitalia, left lateral view of Apatania naumanni spec. nov.",
+            "id": "7A"
+        },
+        {
+            "description": "Male genitalia, dorsal view of Apatania naumanni spec. nov.",
+            "id": "7B"
+        },
+        {
+            "description": "Male genitalia, ventral view of Apatania naumanni spec. nov.",
+            "id": "7C"
+        },
+        {
+            "description": "Female genitalia, left lateral view of Apatania naumanni spec. nov.",
+            "id": "7D"
+        },
+        {
+            "description": "Female genitalia, dorsal view of Apatania naumanni spec. nov.",
+            "id": "7E"
+        },
+        {
+            "description": "Female genitalia, ventral view of Apatania naumanni spec. nov.",
+            "id": "7F"
+        }
+    ]
+}

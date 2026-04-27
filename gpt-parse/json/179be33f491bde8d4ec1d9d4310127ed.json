@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "Head in ventral view of Squalus melanurus Fourmanoir, 1979. MNHN-IC-1997-3619, juvenile female, 527 mm TL. Scale bar: 50 mm.",
+            "id": "A"
+        },
+        {
+            "description": "Head in ventral view of Squalus melanurus Fourmanoir, 1979. MNHN-IC-1980-0460 (holotype of S. melanurus), adult male, 670 mm TL. Scale bar: 50 mm.",
+            "id": "B"
+        },
+        {
+            "description": "Head in ventral view of Squalus melanurus Fourmanoir, 1979. MNHN-IC-1978-0693 (holotype of S. rancureli Fourmanoir, 1979), adult male, 680 mm TL. Scale bar: 50 mm.",
+            "id": "C"
+        }
+    ]
+}

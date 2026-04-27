@@ -1,0 +1,12 @@
+{
+    "subpanels": [
+        {
+            "description": "Ventral view of pelvic fin of Gymnura lessae, sp. nov. Male (AMNH 84277, unregistered size).",
+            "id": "A"
+        },
+        {
+            "description": "Ventral view of pelvic fin of Gymnura lessae, sp. nov. Female (CAS 19834, 296 mm DW).",
+            "id": "B"
+        }
+    ]
+}

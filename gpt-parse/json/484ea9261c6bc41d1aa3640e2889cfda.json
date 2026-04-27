@@ -1,0 +1,16 @@
+{
+    "subpanels": [
+        {
+            "description": "View from right side of Deltoceras beluga sp. nov., FMNH-P30321, holotype, from bed PO 07, from the Olenidsletta Member, Floian, Ordovician, Profilstranda section, Ny Friesland, Spitsbergen. Scale bar = 10 mm.",
+            "id": "A"
+        },
+        {
+            "description": "Ventral view of Deltoceras beluga sp. nov., FMNH-P30321, holotype, from bed PO 07, from the Olenidsletta Member, Floian, Ordovician, Profilstranda section, Ny Friesland, Spitsbergen. Note the deep u-shaped hyponomic sinus. Scale bar = 10 mm.",
+            "id": "B"
+        },
+        {
+            "description": "View from left side of Deltoceras beluga sp. nov., FMNH-P30321, holotype, from bed PO 07, from the Olenidsletta Member, Floian, Ordovician, Profilstranda section, Ny Friesland, Spitsbergen. Scale bar = 10 mm.",
+            "id": "C"
+        }
+    ]
+}
